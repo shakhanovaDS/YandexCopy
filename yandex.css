@@ -1,0 +1,43 @@
+header {
+    color: darkgrey;
+}
+
+.left {
+
+    position: absolute;
+    top:15%;
+    left: 10%;
+    right: 50%;
+    bottom: 0%;
+}
+.text {
+    position: relative;
+
+}
+.img4 {
+    position: relative;
+    right:-15%;
+}
+.logo {
+    position: relative;
+    right:-43%;
+}
+.textLow {
+    position: relative;
+    top:55%;
+}
+
+.right{
+    border: 1px solid;
+    position: absolute;
+    top:15%;
+    right: 20%;
+    left: 55%;
+    bottom:5%;
+    word-wrap: break-word;
+    box-shadow: darkgrey 5px 5px 4px 3px,darkgrey -5px -5px 4px 3px;
+
+}
+.button {
+
+}
